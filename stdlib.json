@@ -1,0 +1,6 @@
+{
+  "name": "ee33/basic-bot-website",
+  "timeout": 10000,
+  "connector": false,
+  "events": {}
+}
