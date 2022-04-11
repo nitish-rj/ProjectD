@@ -1,0 +1,8 @@
+{
+  "name": "basic-bot-website",
+  "author": "Spectre",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
